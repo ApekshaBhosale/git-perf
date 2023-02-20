@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "randomID",
+    "pageId": "Car servicing",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Car servicing_randomID",
+  "deleted": false,
+  "gitSyncId": "63f34ea48a47401814593cff_63f3512f8a47401814593d3b"
+}
